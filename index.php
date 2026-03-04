@@ -1,0 +1,371 @@
+<!--
+  Website Developed by Web Plans™
+  Do not copy without permission
+-->
+<html>
+    <head>
+        <base href="/">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Dr Pooja's Pearly White Dental Clinic - Best Dentist in Indore</title>
+<link rel="icon" type="image/x-icon" href="logo.png">
+<meta property="og:image" content="https://pearlywhite.in/logo.png">
+<meta property="og:image:type" content="image/png">
+<meta property="og:image:width" content="1024">
+<meta property="og:image:height" content="1024">
+  <!--FACEBOOK-->
+    <meta property="og:image" content="https://pearlywhite.in/logo.png">
+    <meta property="og:image:type" content="image/png">
+    <meta property="og:image:width" content="1024">
+    <meta property="og:image:height" content="1024">
+    <meta property="og:type" content="https://pearlywhite.in/" />
+    <meta name="theme-color" media="(prefers-color-scheme: light)" content="#00a0dc" />
+<meta name="theme-color" media="(prefers-color-scheme: dark)" content="white" />
+ <link rel="stylesheet" href="https://webplans.in/demo/style.css">
+
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+
+<nav class="navbar">
+  <a href="https://www.pearlywhite.in" class="navbar-brand" style="color:#404040;">
+    <img src="logo.png" alt="dr pooja dental clinic" style="width:40px;height:40px;">
+    Pearly White
+  </a>
+  
+  <div class="menu-toggle">
+    <i class="fas fa-bars"></i>
+  </div>
+  
+  <ul class="nav-links">
+    <li><a href="#home">Home</a></li>
+    <li><a href="https://www.pearlywhite.in/#services">Services</a></li>
+    <li><a href="about.html">About</a></li>
+    <li><a href="#testimonials">Testimonials</a></li>
+     <li><a href="gallery.html">Gallery</a></li>
+    <li><a href="#social">Social</a></li>
+    <li><a href="#location">Location</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ul>
+</nav>
+
+<a href="https://wa.me/917694959759" target="_blank" class="whatsapp-float">
+  <i class="fab fa-whatsapp"></i>
+</a>
+
+<section class="hero" id="home">
+  <div class="hero-content">
+    <h1>Welcome to Dr Pooja's Pearly White Dental Clinic</h1>
+    <p>Your trusted dental care partner in Indore. Experience world-class dental treatments with our expert team.</p>
+    <a href="#appointment" class="btn">Book Appointment</a>
+  </div>
+</section>
+
+<section class="services" id="services">
+  <div class="section-title">
+    <h2>Our Services</h2>
+    <p>Comprehensive dental care solutions for your entire family</p>
+  </div>
+  
+  <div class="services-grid">
+    <div class="service-card">
+      <svg class="service-icon" viewBox="0 0 24 24">
+        <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8zm-5-9h10v2H7z"/>
+      </svg>
+      <h3>General Dentistry</h3>
+      <p>Regular check-ups, cleanings, and preventive care</p>
+    </div>
+    
+    <div class="service-card">
+      <svg class="service-icon" viewBox="0 0 24 24">
+        <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8zm-5-9h10v2H7z"/>
+      </svg>
+      <h3>Cosmetic Dentistry</h3>
+      <p>Teeth whitening, veneers, and smile makeovers</p>
+    </div>
+    
+    <div class="service-card">
+      <svg class="service-icon" viewBox="0 0 24 24">
+        <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8zm-5-9h10v2H7z"/>
+      </svg>
+      <h3>Orthodontics</h3>
+      <p>Braces, aligners, and teeth straightening solutions</p>
+    </div>
+  </div>
+
+  <div class="services-list">
+    <ul style="list-style: none;">
+     <li><i class="fas fa-mask service-bullet"></i> Kids Dentistry</li>
+      <li><i class="fas fa-tooth service-bullet"></i> Root Canal Treatment</li>
+      <li><i class="fas fa-teeth service-bullet"></i> Dental Implants</li>
+      <li><i class="fas fa-smile service-bullet"></i> Teeth Whitening</li>
+      <li><i class="fas fa-crown service-bullet"></i> Dental Crowns & Bridges</li>
+      <li><i class="fas fa-teeth-open service-bullet"></i> Braces and Aligners</li>
+      <li><i class="fas fa-tooth service-bullet"></i> Pediatric Dentistry</li>
+      <li><i class="fas fa-mask service-bullet"></i> Complete Denture</li>
+      <li><i class="fas fa-clipboard-check service-bullet"></i> Regular Checkups</li>
+    </ul>
+  </div>
+</section>
+
+<section class="testimonials" id="testimonials">
+  <div class="section-title">
+    <h2>Patient Review</h2>
+    <p>What our happy patients say about us</p>
+  </div>
+  
+  <div class="testimonial-slider swiper">
+    <div class="swiper-wrapper">
+      <div class="swiper-slide">
+        <div class="testimonial-card">
+          <img src="https://randomuser.me/api/portraits/women/1.jpg" alt="Patient" class="testimonial-img">
+          <h3>Priya Sharma</h3>
+          <p>"Outstanding dental care! Dr. Pooja and her team are professional, caring, and skilled. Highly recommended!"</p>
+        </div>
+      </div>
+      
+      <div class="swiper-slide">
+        <div class="testimonial-card">
+          <img src="https://randomuser.me/api/portraits/men/1.jpg" alt="Patient" class="testimonial-img">
+          <h3>Rahul Verma</h3>
+          <p>"The best dental clinic in Indore! State-of-the-art facilities and excellent patient care."</p>
+        </div>
+      </div>
+    </div>
+    <div class="swiper-pagination"></div>
+  </div>
+</section>
+
+<section class="social-feed" id="social">
+  <div class="section-title">
+    <h2>Follow Us on Instagram</h2>
+    <p>Stay updated with our latest treatments and patient transformations</p>
+  </div>
+  
+  <div class="instagram-feed">
+    <!-- Instagram Feed Widget -->
+    <div class="instagram-widget">
+      <iframe 
+        src="https://www.instagram.com/pearlywhitedentalclinic2021/embed" 
+        width="100%" 
+        height="750" 
+        frameborder="0" 
+        scrolling="no" 
+        allowtransparency="true">
+      </iframe>
+    </div>
+  </div>
+</section>
+
+<section class="location" id="location">
+  <div class="section-title">
+    <h2>Our Location</h2>
+    <p>Visit us at our clinic in Indore</p>
+  </div>
+  
+  <div class="map-container" style="max-width: 1200px; margin: 0 auto; padding: 2rem;">
+    <div style="width: 100%; height: 400px; border-radius: 10px; overflow: hidden; box-shadow: 0 5px 15px rgba(0,0,0,0.1);">
+      <iframe 
+        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3680.3281352401405!2d75.89066281744384!3d22.723969085105883!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3962fd0b7bdd0b6b%3A0x88b474fce06c8835!2sDr.%20Pooja&#39;s%20Pearly%20White%20Dental%20Clinic!5e0!3m2!1sen!2sin!4v1656789012345!5m2!1sen!2sin"
+        width="100%" 
+        height="100%" 
+        style="border:0;" 
+        allowfullscreen="" 
+        loading="lazy" 
+        referrerpolicy="no-referrer-when-downgrade">
+      </iframe>
+    </div>
+    
+    <div style="text-align: center; margin-top: 2rem;">
+      <h3 style="color: var(--primary); margin-bottom: 1rem;">Visit Our Clinic</h3>
+      <p style="font-size: 1.1rem; margin-bottom: 0.5rem;">Dr. Pooja's Pearly White Dental Clinic</p>
+      <p style="color: var(--dark);">SHOP 4, SHREE GANGA EMPIRE, Khandwa Rd, Shivdham Colony, Limbodi, Indore, Madhya Pradesh 452020</p>
+      <a href="https://g.co/kgs/pdY1FhG" target="_blank" class="btn" style="margin-top: 1rem;">
+        <i class="fas fa-directions"></i> Get Directions
+      </a>
+    </div>
+  </div>
+</section>
+
+<section class="contact" id="appointment">
+  <div id="contact" class="section-title">
+    <h2>Contact Us</h2>
+    <p>Get in touch for appointments and inquiries</p>
+  </div>
+
+  <div class="contact-form">
+    <form id="inquiryForm" onsubmit="return handleSubmit(event)">
+      <div class="form-group">
+        <label for="name">Full Name *</label>
+        <input type="text" id="name" name="name" required>
+      </div>
+      
+      <div class="form-group">
+        <label for="phone">Phone Number *</label>
+        <input type="tel" id="phone" name="phone" required>
+      </div>
+      
+      <div class="form-group">
+        <label for="email">Email Address</label>
+        <input type="email" id="email" name="email">
+      </div>
+      
+      <div class="form-group">
+        <label for="service">Service Required *</label>
+        <select id="service" name="service" required>
+          <option value="">Select a Service</option>
+          <option value="General Checkup">General Checkup</option>
+          <option value="Root Canal">Root Canal</option>
+          <option value="Dental Implants">Dental Implants</option>
+          <option value="Smile Makeover">Teeth Whitening</option>
+          <option value="Orthodontics">Orthodontics</option>
+          <option value="Other">Other</option>
+        </select>
+      </div>
+      
+      <div class="form-group">
+        <label for="message">Your Message</label>
+        <textarea id="message" name="message"></textarea>
+      </div>
+      
+      <button type="submit" class="btn">
+        <i class="fab fa-whatsapp"></i> Submit Inquiry via WhatsApp
+      </button>
+    </form>
+  </div>
+</section>
+
+<footer>
+  <h2>Pooja Pearly White Clinic</h2>
+  <p>WWW.PEARLYWHITE.IN</p>
+  <p>Phone: +91 7694959759</p>
+  <p>Email: info@pearlywhite.in</p>
+  <p>WhatsApp: <a href="https://wa.me/917694959759" style="color: white;">+91 7694959759</a></p>
+   <p>Copyright © 2020 All Rights Reserved</p>
+  <div class="social-links" style="margin-top: 1rem;">
+    <a href="https://wa.me/917694959759" target="_blank" style="color: white; margin: 0 10px;">
+      <i class="fab fa-whatsapp"></i>
+    </a>
+    <a href="https://www.instagram.com/pearlywhitedentalclinic2021/" target="_blank" style="color: white; margin: 0 10px;">
+      <i class="fab fa-instagram"></i>
+    </a>
+    <a href="https://www.facebook.com" target="_blank" style="color: white; margin: 0 10px;">
+      <i class="fab fa-facebook"></i>
+    </a>
+    <a href="https://www.twitter.com" target="_blank" style="color: white; margin: 0 10px;">
+      <i class="fab fa-twitter"></i>
+    </a>
+  </div>
+</footer>
+ <div class="contact-form">Web Development By <a href="https://www.webplans.in">Web Plans</a></div>
+<script src="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.js"></script>
+<script>
+const swiper = new Swiper('.testimonial-slider', {
+  slidesPerView: 1,
+  spaceBetween: 30,
+  loop: true,
+  autoplay: {
+    delay: 3000,
+    disableOnInteraction: false,
+  },
+  pagination: {
+    el: '.swiper-pagination',
+    clickable: true,
+  },
+  breakpoints: {
+    768: {
+      slidesPerView: 2,
+    }
+  }
+});
+
+// Smooth scroll
+document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+  anchor.addEventListener('click', function (e) {
+    e.preventDefault();
+    document.querySelector(this.getAttribute('href')).scrollIntoView({
+      behavior: 'smooth'
+    });
+  });
+});
+
+// Mobile menu toggle
+const menuToggle = document.querySelector('.menu-toggle');
+const navLinks = document.querySelector('.nav-links');
+
+menuToggle.addEventListener('click', () => {
+  navLinks.classList.toggle('active');
+});
+
+// Close mobile menu when clicking outside
+document.addEventListener('click', (e) => {
+  if (!e.target.closest('.navbar')) {
+    navLinks.classList.remove('active');
+  }
+});
+
+// Instagram Feed API Integration
+window.addEventListener('load', function() {
+  const instagramWidget = document.querySelector('.instagram-widget iframe');
+  
+  // Handle iframe resize
+  window.addEventListener('resize', function() {
+    const width = Math.min(instagramWidget.parentElement.offsetWidth, 1200);
+    instagramWidget.style.width = width + 'px';
+  });
+});
+
+// Navbar scroll effect
+window.addEventListener('scroll', function() {
+  if (window.scrollY > 50) {
+    document.querySelector('.navbar').style.background = 'rgba(255,255,255,0.95)';
+  } else {
+    document.querySelector('.navbar').style.background = 'white';
+  }
+});
+
+function handleSubmit(event) {
+  event.preventDefault();
+  
+  // Gather form data
+  const formData = new FormData(event.target);
+  const data = Object.fromEntries(formData);
+  
+  // Basic validation
+  if (!data.name || !data.phone || !data.service) {
+    alert('Please fill in all required fields');
+    return false;
+  }
+  
+  // Construct WhatsApp message
+  const message = `*New Inquiry from Pearly White Website*\n\n` +
+    `*Name:* ${data.name}\n` +
+    `*Phone:* ${data.phone}\n` +
+    `*Email:* ${data.email}\n` +
+    `*Service:* ${data.service}\n` +
+    `*Message:* ${data.message}`;
+    
+  // Encode message for WhatsApp URL
+  const encodedMessage = encodeURIComponent(message);
+  
+  // Open WhatsApp with pre-filled message
+  window.open(`https://wa.me/917694959759?text=${encodedMessage}`, '_blank');
+  
+  // Reset form
+  event.target.reset();
+  return false;
+}
+
+// Add phone number format validation
+document.getElementById('phone').addEventListener('input', function(e) {
+  let x = e.target.value.replace(/\D/g, '').match(/(\d{0,3})(\d{0,3})(\d{0,4})/);
+  e.target.value = !x[2] ? x[1] : '(' + x[1] + ') ' + x[2] + (x[3] ? '-' + x[3] : '');
+});
+</script>
+<script>
+console.log("Website Developed by Web Plans™");
+</script>
+</body>
+</html>
